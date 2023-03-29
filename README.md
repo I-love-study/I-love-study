@@ -1,4 +1,4 @@
-<picture>
+<div><picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=I-love-study&show_icons=true&theme=radical">
   <img align="right" alt="info" src="https://github-readme-stats.vercel.app/api?username=I-love-study&show_icons=true&theme=gruvbox_light">
 </picture>
@@ -6,9 +6,12 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=I-love-study&layout=compact&hide_border=true&theme=radical">
   <img align="right" alt="info" src="https://github-readme-stats.vercel.app/api/top-langs/?username=I-love-study&layout=compact&hide_border=true&theme=gruvbox_light">
 </picture>
-
-Hi!很高兴认识大家。  
+<img width="100px">
+</div>
+Hi!很高兴认识大家。
+<br/>  
 Hi there, nice to meet you guys.
+
 
 About Me:
  - :koko: co↑co↓
