@@ -7,7 +7,7 @@ Hi!很高兴认识大家。
 Hi there, nice to meet you guys.
 
 About Me:
- - <img alt="Python" height="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /> Pythoner!
+ - <img alt="Python" height="24px" align=top src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /> 弱弱 Pythoner!
  - :koko: co↑co↓
  - :fish: 摸鱼！
  - :dove: 不会，鸽了！
